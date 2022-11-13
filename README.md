@@ -7,7 +7,7 @@ and then depending on their gender outputs their Akan Name.
 
 
  ###### Setup.
-   git clone `https://gloriamutie.github.io/AKANNAME/
+   git clone `https://github.com/gloriamutie/akan.git
  
    extract the file``
  
